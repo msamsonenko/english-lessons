@@ -1,17 +1,17 @@
-export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        textTransform: 'uppercase',
-        color: '#010101',
-      }}
-    >
-      React homework template
-    </div>
-  );
-};
+import React, { Component } from 'react';
+import lesson_1 from './vocabulary/lesson-one.json';
+import LessonOne from './Lesson-1/LessonOne';
+
+export default class App extends Component {
+  state = {
+    words: lesson_1,
+  };
+  render() {
+    console.log(this.state.words);
+    return (
+      <div>
+        <LessonOne words={this.state.words} />
+      </div>
+    );
+  }
+}

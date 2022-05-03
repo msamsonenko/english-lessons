@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0001",
+    "name": { "en": "cat", "ua": "кіт" },
+    "img": "https://www.prestigeanimalhospital.com/sites/default/files/interesting-cat-facts.jpg"
+  },
+  {
+    "id": "0002",
+    "name": { "en": "bag", "ua": "сумка" },
+    "img": "https://ae01.alicdn.com/kf/HTB1PuIRIpXXXXclXFXXq6xXFXXXK/224223225/HTB1PuIRIpXXXXclXFXXq6xXFXXXK.jpg"
+  },
+  {
+    "id": "0003",
+    "name": { "en": "cap", "ua": "картуз" },
+    "img": "https://m.media-amazon.com/images/I/612pHBJRO3L._AC_SL1000_.jpg"
+  },
+  {
+    "id": "0004",
+    "name": { "en": "hand", "ua": "рука" },
+    "img": "https://images.unsplash.com/photo-1610275503284-d585fbb996fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW4lMjBoYW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": "0005",
+    "name": { "en": "bat", "ua": "битка" },
+    "img": "https://www.shkyravdome.com/10550-large_default/bejsbolna-bitka-80-sm-rozpis.jpg"
+  },
+  {
+    "id": "0006",
+    "name": { "en": "bad", "ua": "поганий" },
+    "img": "http://blag.org.ua/images/ilyusrat/15417.jpg"
+  },
+  {
+    "id": "0007",
+    "name": { "en": "map", "ua": "карта" },
+    "img": "https://cdn.britannica.com/15/4815-050-F533DB64/Ukraine.jpg"
+  },
+  {
+    "id": "0008",
+    "name": { "en": "crab", "ua": "краб" },
+    "img": "https://media.istockphoto.com/vectors/crab-character-smiling-with-big-claws-on-a-white-vector-id1164392644?s=170667a"
+  },
+  {
+    "id": "0009",
+    "name": { "en": "rat", "ua": "щур" },
+    "img": "https://i.pinimg.com/564x/52/87/7f/52877ff3531106d0601b657b75c6ba58.jpg"
+  },
+  {
+    "id": "0010",
+    "name": { "en": "sad", "ua": "сумний" },
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1126510/capsule_616x353.jpg?t=1565766736"
+  },
+  {
+    "id": "0011",
+    "name": { "en": "can", "ua": "могти" },
+    "img": "https://lim-english.com/uploads/images/all/img_articles_new/can.jpg"
+  },
+  {
+    "id": "0012",
+    "name": { "en": "lamp", "ua": "лампа" },
+    "img": "https://m.media-amazon.com/images/I/61Ckk6bdzwL._AC_SY355_.jpg"
+  },
+  {
+    "id": "0013",
+    "name": { "en": "hat", "ua": "капелюх" },
+    "img": "https://m.media-amazon.com/images/I/71tKXRvS9IL._AC_UL1500_.jpg"
+  },
+  {
+    "id": "0014",
+    "name": { "en": "fat", "ua": "товстий" },
+    "img": "https://cdnb.artstation.com/p/assets/images/images/019/472/561/large/waleed-abid-faty-final02-edited.jpg?1563649421"
+  },
+  {
+    "id": "0015",
+    "name": { "en": "jam", "ua": "вареня, джем" },
+    "img": "https://media.istockphoto.com/photos/strawberry-jam-on-the-bread-picture-id533725826?k=20&m=533725826&s=612x612&w=0&h=5dHuNYwDMZfkRkIVwrzFeOvk8tWmvySJmngEfloU72U="
+  },
+  {
+    "id": "0016",
+    "name": { "en": "black", "ua": "чорний" },
+    "img": "https://yt3.ggpht.com/ytc/AKedOLTy52u-IQGRDK-t02kIPOtDH7jsWtnR2-55k5KlTw=s900-c-k-c0x00ffffff-no-rj"
+  }
+]
